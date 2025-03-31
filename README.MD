@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Benjamin Ataide**  
-- **Comisión:** 1 **  
+- **Nombre:** Benjamin Ataide
+- **Comisión:** 1 
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
